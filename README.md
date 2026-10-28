@@ -55,20 +55,6 @@ Fully responsive design, clean UI, and smooth navigation across all devices.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍊 OrangeBite — Food Delivery
-Fully responsive food delivery website with a modern UI, shopping cart, category filters, and add-to-cart functionality.
-`HTML5` `CSS3` `JavaScript` `Responsive`
-🔗 [View Live](https://ahmadshayaan19.github.io/MYPROJECT1/)
-
-### 💼 Freelance Web Developer Portfolio
-Modern freelancing site showcasing services, projects, and skills — with smooth animations, interactive UI, and a working contact form.
-`HTML5` `CSS3` `JavaScript` `Responsive` `Web3Forms`
-🔗 [View Live](https://ahmadshayaan19.github.io/restaurantdemo/)
-
----
-
 ## 🎓 Education
 
 | Year | Program | Institution |
